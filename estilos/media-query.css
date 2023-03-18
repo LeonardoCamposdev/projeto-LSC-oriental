@@ -197,7 +197,7 @@
 
 }
 
-@media screen and (min-width:1200px) and (max-width:1620px){
+@media screen and (min-width:1200px) and (max-width:1450px){
 
     .propaganda div > ul > li > img {
         height: 26vh;
@@ -205,35 +205,35 @@
 }
 
 
-@media screen and (min-width:1620px){
+@media screen and (min-width:1450px){
     .propaganda > div {
         padding-bottom: 5rem;
     }
     
-}
-.propaganda div > ul > li > img {
-    height: 34vh;
-    transition: all 300ms;
-}
 
-.propaganda #img1:hover{
-    height: 35vh;
-    transition: scale(1.15);
-}
+    .propaganda div > ul > li > img {
+        height: 34vh;
+        transition: all 300ms;
+    }
 
-.propaganda #img2:hover{
-    height: 35vh;
-    transition: scale(1.15);
-}
+    .propaganda #img1:hover{
+        height: 35vh;
+        transition: scale(1.15);
+    }
 
-.propaganda #img3:hover{
-    height: 35vh;
-    transition: scale(1.15);
-}
+    .propaganda #img2:hover{
+        height: 35vh;
+        transition: scale(1.15);
+    }
 
-.propaganda #img4:hover{
-    height: 35vh;
-    transition: scale(1.15);
-}
+    .propaganda #img3:hover{
+        height: 35vh;
+        transition: scale(1.15);
+    }
+
+    .propaganda #img4:hover{
+        height: 35vh;
+        transition: scale(1.15);
+    }   
 
 }
