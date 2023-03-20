@@ -26,8 +26,6 @@ header {
     
     background-color: white;
     color: black;
-    
-
 }
 
 a {
@@ -49,7 +47,6 @@ a {
     text-align: center;
     margin-top: 10rem;
     color: white;
-    
 }
 
 .conteudo > h2{
@@ -100,7 +97,6 @@ main{
     padding-top: 3.5rem
 }
 
-
 .cardapio img{
     padding-left: 50px;
 }
@@ -116,7 +112,6 @@ main{
 #sopah1{
     padding-left: 50px;
 }
-
 
 .cardapio h1{
     font-size: 1.8em;
@@ -387,8 +382,8 @@ form > button:hover{
 #developed{
     height: 2.5rem;
     background-color: black;
-   text-align: center;
-   padding: .5rem;
+    text-align: center;
+    padding: .5rem;
 }
 
 #developed h2{
